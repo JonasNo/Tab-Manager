@@ -34,6 +34,9 @@ body{
 	margin-left:0px;
 	border-left:none;
 }
+.focused {
+	box-shadow: 0px 0px 5px 2px #07a9da;
+}
 .icon{
 	height:20px;
 	width:20px;
